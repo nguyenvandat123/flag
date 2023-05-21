@@ -5,7 +5,7 @@ Sau khi tệp `gettingBetter` được tải xuống, tôi chạy file lệnh tr
 
 ![Screenshot from 2023-05-21 09-50-35](https://github.com/nguyenvandat123/flag/assets/127211886/0bfa3d15-6f63-4d9e-bb29-501e235b1288)
 
-Biết được điều đó, tôi đã chạy tệp thực thi và nó hỏi tôi "Please enter the correct passphrase to get the flag:". Tôi đã nhập "paspharase" là một chuỗi bất kì và chương trình cho tôi biết điều đó không chính xác và tôi nên thử lại.
+Biết được điều đó, tôi đã chạy tệp thực thi và nhập "paspharase" là một chuỗi bất kì và chương trình cho tôi biết điều đó không chính xác.
 
 ![Screenshot from 2023-05-21 09-51-20](https://github.com/nguyenvandat123/flag/assets/127211886/cdc697a2-dc79-4ebe-8e8d-5bb46899171f)
 
