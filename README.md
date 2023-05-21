@@ -1,7 +1,7 @@
 # **RevEng**
 Level_Easy
 
-Sau khi tệp `gettingBetter` được tải xuống, tôi chạy file lệnh trên tệp đó để tìm xem đó là loại tệp nào. Truy vấn này cho chúng tôi thấy rằng tệp là tệp thực thi.
+Sau khi tệp `gettingBetter` được tải xuống, tôi chạy file lệnh trên tệp đó để tìm xem đó là loại tệp nào. Truy vấn này cho tôi thấy rằng tệp là tệp thực thi.
 
 ![Screenshot from 2023-05-21 09-50-35](https://github.com/nguyenvandat123/flag/assets/127211886/0bfa3d15-6f63-4d9e-bb29-501e235b1288)
 
