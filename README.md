@@ -11,7 +11,7 @@ Biết được điều đó, tôi đã chạy tệp thực thi và nhập "pasp
 
 Vì vậy tôi đã xác định được yêu cầu của thử thách là nhập đúng pass để lấy được flag. Bắt đầu quá trình debug bằng công cụ GDB:
 
-Tôi sẽ sử dụng lệnh sau để sau hàm `main` làm gì:
+Tôi sẽ sử dụng lệnh sau để biết hàm `main` làm những gì:
 
 ![Screenshot from 2023-05-21 10-36-41](https://github.com/nguyenvandat123/flag/assets/127211886/2d6f54c4-0b70-4f79-9981-6e640eefac1f)
 
